@@ -1,9 +1,9 @@
 * {
     font-family: 'EB Garamond', Arial;
     font-weight: 400;
-    color: rgb(224, 224, 224);
+    color: #272727;
 
-    background-color: #272727;
+    background-color: rgb(224, 224, 224);
 }
 
 ::selection {
