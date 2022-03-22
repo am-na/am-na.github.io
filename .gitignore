@@ -1,6 +1,8 @@
 .DS_Store
 *.zip
-
+*.gif
+*.png
+*.jpg
 *.webp
 *.woff
 *.woff2
